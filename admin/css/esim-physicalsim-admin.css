@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.esim-physicalsim-importform{
+   background:#fff;
+    padding:10px;
+    margin:10px 0;
+    border:1px solid #ccc;
+}
+.esimphysicalsim-info-message{
+    color:blue;
+}
